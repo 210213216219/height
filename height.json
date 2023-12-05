@@ -10,7 +10,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000333593/",
     "year": 1998,
-    "height": 156.0,
+    "height": 156,
     "weight": 487.0
   },
   {
@@ -24,7 +24,7 @@
     "mcnty": "GER",
     "mhref": "https://www.jbis.or.jp/horse/0000369587/",
     "year": 2012,
-    "height": 157.0,
+    "height": 157,
     "weight": 419.0
   },
   {
@@ -38,7 +38,7 @@
     "mcnty": "JPN",
     "mhref": "https://www.jbis.or.jp/horse/0000203356/",
     "year": 2004,
-    "height": 158.0,
+    "height": 158,
     "weight": 423.2
   },
   {
@@ -52,7 +52,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000335203/",
     "year": 2000,
-    "height": 158.0,
+    "height": 158,
     "weight": 456.0
   },
   {
@@ -66,8 +66,22 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000342010/",
     "year": 2008,
-    "height": 159.0,
+    "height": 159,
     "weight": 437.1
+  },
+  {
+    "name": "ダノンキングリー",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001221761/",
+    "sire": "ディープインパクト",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000742976/",
+    "msire": "Storm Cat",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000337102/",
+    "year": 2016,
+    "height": 159,
+    "weight": 453.7
   },
   {
     "name": "デュランダル",
@@ -80,7 +94,7 @@
     "mcnty": "CAN",
     "mhref": "https://www.jbis.or.jp/horse/0000333544/",
     "year": 1999,
-    "height": 159.0,
+    "height": 159,
     "weight": 453.8
   },
   {
@@ -94,7 +108,7 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000398624/",
     "year": 1989,
-    "height": 159.0,
+    "height": 159,
     "weight": 454.0
   },
   {
@@ -108,7 +122,7 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000335151/",
     "year": 1999,
-    "height": 160.0,
+    "height": 160,
     "weight": 435.5
   },
   {
@@ -122,7 +136,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000333862/",
     "year": 2010,
-    "height": 160.0,
+    "height": 160,
     "weight": 440.5
   },
   {
@@ -136,8 +150,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000334047/",
     "year": 1992,
-    "height": 160.0,
+    "height": 160,
     "weight": 450.0
+  },
+  {
+    "name": "Scintillo",
+    "cnty": "GB",
+    "href": "https://www.jbis.or.jp/horse/0001084609/",
+    "sire": "Fantastic Light",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000369753/",
+    "msire": "Thatching",
+    "mcnty": "IRE",
+    "mhref": "https://www.jbis.or.jp/horse/0000336439/",
+    "year": 2005,
+    "height": 160,
+    "weight": 456.0
   },
   {
     "name": "サトノクラウン",
@@ -150,7 +178,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000372694/",
     "year": 2012,
-    "height": 160.0,
+    "height": 160,
     "weight": 482.6
   },
   {
@@ -164,8 +192,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000340133/",
     "year": 2001,
-    "height": 160.0,
+    "height": 160,
     "weight": 476.0
+  },
+  {
+    "name": "Kitwood",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0000225906/",
+    "sire": "Nureyev",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000336085/",
+    "msire": "Sea Bird",
+    "mcnty": "FR",
+    "mhref": "https://www.jbis.or.jp/horse/0000333964/",
+    "year": 1989,
+    "height": 160,
+    "weight": 478.0
   },
   {
     "name": "Falvelon",
@@ -178,7 +220,7 @@
     "mcnty": "NZ",
     "mhref": "https://www.jbis.or.jp/horse/0000353202/",
     "year": 1996,
-    "height": 160.0,
+    "height": 160,
     "weight": 502.0
   },
   {
@@ -192,7 +234,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000372626/",
     "year": 2017,
-    "height": 161.0,
+    "height": 161,
     "weight": 0
   },
   {
@@ -206,7 +248,7 @@
     "mcnty": "FR",
     "mhref": "https://www.jbis.or.jp/horse/0000333664/",
     "year": 1994,
-    "height": 161.0,
+    "height": 161,
     "weight": 424.1
   },
   {
@@ -220,7 +262,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337102/",
     "year": 1996,
-    "height": 161.0,
+    "height": 161,
     "weight": 446.1
   },
   {
@@ -234,8 +276,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337102/",
     "year": 1996,
-    "height": 161.0,
+    "height": 161,
     "weight": 453.0
+  },
+  {
+    "name": "ナカヤマフェスタ",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000992448/",
+    "sire": "ステイゴールド",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000286968/",
+    "msire": "Tight Spot",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000333889/",
+    "year": 2006,
+    "height": 161,
+    "weight": 455.6
   },
   {
     "name": "カレンブラックヒル",
@@ -248,7 +304,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000365179/",
     "year": 2009,
-    "height": 161.0,
+    "height": 161,
     "weight": 471.5
   },
   {
@@ -262,7 +318,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000362819/",
     "year": 2014,
-    "height": 161.0,
+    "height": 161,
     "weight": 489.9
   },
   {
@@ -276,8 +332,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336839/",
     "year": 1996,
-    "height": 161.0,
+    "height": 161,
     "weight": 493.5
+  },
+  {
+    "name": "サリオス",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001237164/",
+    "sire": "ハーツクライ",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000722158/",
+    "msire": "Lomitas",
+    "mcnty": "GB",
+    "mhref": "https://www.jbis.or.jp/horse/0000340380/",
+    "year": 2017,
+    "height": 161,
+    "weight": 536.7
   },
   {
     "name": "ダノンシャーク",
@@ -290,7 +360,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336202/",
     "year": 2008,
-    "height": 162.0,
+    "height": 162,
     "weight": 445.1
   },
   {
@@ -304,8 +374,36 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000334003/",
     "year": 1998,
-    "height": 162.0,
+    "height": 162,
     "weight": 459.0
+  },
+  {
+    "name": "コントレイル",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001237042/",
+    "sire": "ディープインパクト",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000742976/",
+    "msire": "Unbridled's Song",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000361396/",
+    "year": 2017,
+    "height": 162,
+    "weight": 460.2
+  },
+  {
+    "name": "Conduit",
+    "cnty": "IRE",
+    "href": "https://www.jbis.or.jp/horse/0001099904/",
+    "sire": "Dalakhani",
+    "scnty": "IRE",
+    "shref": "https://www.jbis.or.jp/horse/0000745340/",
+    "msire": "Sadler's Wells",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000336572/",
+    "year": 2005,
+    "height": 162,
+    "weight": 466.0
   },
   {
     "name": "シビルウォー",
@@ -318,7 +416,7 @@
     "mcnty": "USA", 
     "mhref": "https://www.jbis.or.jp/horse/0000336572/",
     "year": 2005,
-    "height": 162.0,
+    "height": 162,
     "weight": 468.5
   },
   {
@@ -332,7 +430,7 @@
     "mcnty": "IRE",
     "mhref": "https://www.jbis.or.jp/horse/0000225905/",
     "year": 2012,
-    "height": 162.0,
+    "height": 162,
     "weight": 468.8
   },
   {
@@ -346,8 +444,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000362799/",
     "year": 2012,
-    "height": 162.0,
+    "height": 162,
     "weight": 469.1
+  },
+  {
+    "name": "Muchea",
+    "cnty": "GB",
+    "href": "https://www.jbis.or.jp/horse/0000288003/",
+    "sire": "Shalford",
+    "scnty": "IRE",
+    "shref": "https://www.jbis.or.jp/horse/0000340086/",
+    "msire": "Hotfoot",
+    "mcnty": "GB",
+    "mhref": "https://www.jbis.or.jp/horse/0000334035/",
+    "year": 1994,
+    "height": 162,
+    "weight": 472.0
   },
   {
     "name": "スターキングマン",
@@ -360,7 +472,7 @@
     "mcnty": "FR",
     "mhref": "https://www.jbis.or.jp/horse/0000335274/",
     "year": 1999,
-    "height": 162.0,
+    "height": 162,
     "weight": 473.1
   },
   {
@@ -374,7 +486,7 @@
     "mcnty": "JPN",
     "mhref": "https://www.jbis.or.jp/horse/0000274883/",
     "year": 2010,
-    "height": 162.0,
+    "height": 162,
     "weight": 482.3
   },
   {
@@ -388,7 +500,7 @@
     "mcnty": "JPN",
     "mhref": "https://www.jbis.or.jp/horse/0000293624/",
     "year": 2010,
-    "height": 162.0,
+    "height": 162,
     "weight": 487.0
   },
   {
@@ -402,7 +514,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336890/",
     "year": 2015,
-    "height": 162.0,
+    "height": 162,
     "weight": 487.0
   },
   {
@@ -416,8 +528,50 @@
     "mcnty": "IRE",
     "mhref": "https://www.jbis.or.jp/horse/0000336370/",
     "year": 1990,
-    "height": 162.0,
+    "height": 162,
     "weight": 492.0
+  },
+  {
+    "name": "マテラスカイ",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0001222285/",
+    "sire": "Speightstown",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000719250/",
+    "msire": "Rahy",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000337553/",
+    "year": 2014,
+    "height": 162,
+    "weight": 516.6
+  },
+  {
+    "name": "タワーオブロンドン",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001209439/",
+    "sire": "Raven's Pass",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0001083952/",
+    "msire": "Dalakhani",
+    "mcnty": "IRE",
+    "mhref": "https://www.jbis.or.jp/horse/0000745340/",
+    "year": 2015,
+    "height": 162,
+    "weight": 516.6
+  },
+  {
+    "name": "ナムラタイタン",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000990058/",
+    "sire": "サウスヴィグラス",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000310467/",
+    "msire": "Afleet",
+    "mcnty": "CAN",
+    "mhref": "https://www.jbis.or.jp/horse/0000337421/",
+    "year": 2006,
+    "height": 162,
+    "weight": 521.2
   },
   {
     "name": "エーシントップ",
@@ -430,7 +584,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000361396/",
     "year": 2010,
-    "height": 162.0,
+    "height": 162,
     "weight": 531.1
   },
   {
@@ -444,7 +598,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336395/",
     "year": 1990,
-    "height": 163.0,
+    "height": 163,
     "weight": 437.0
   },
   {
@@ -458,7 +612,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000335167/",
     "year": 1990,
-    "height": 163.0,
+    "height": 163,
     "weight": 440.0
   },
   {
@@ -472,7 +626,7 @@
     "mcnty": "JPN",
     "mhref": "https://www.jbis.or.jp/horse/0000203356/",
     "year": 2008,
-    "height": 163.0,
+    "height": 163,
     "weight": 455.3
   },
   {
@@ -486,7 +640,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000333862/",
     "year": 2007,
-    "height": 163.0,
+    "height": 163,
     "weight": 459.0
   },
   {
@@ -500,7 +654,7 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000336179/",
     "year": 1999,
-    "height": 163.0,
+    "height": 163,
     "weight": 468.0
   },
   {
@@ -514,8 +668,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000333862/",
     "year": 2011,
-    "height": 163.0,
+    "height": 163,
     "weight": 469.9
+  },
+  {
+    "name": "バンブーエール",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000761992/",
+    "sire": "Afleet",
+    "scnty": "CAN",
+    "shref": "https://www.jbis.or.jp/horse/0000337421/",
+    "msire": "Rainbow Quest",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000337286/",
+    "year": 2003,
+    "height": 163,
+    "weight": 470.5
   },
   {
     "name": "Chineur",
@@ -528,8 +696,22 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000336330/",
     "year": 2001,
-    "height": 163.0,
+    "height": 163,
     "weight": 477.0
+  },
+  {
+    "name": "ディーマジェスティ",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001167517/",
+    "sire": "ディープインパクト",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000742976/",
+    "msire": "Brian's Time",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000333844/",
+    "year": 2013,
+    "height": 163,
+    "weight": 477.3
   },
   {
     "name": "アドマイヤジャパン",
@@ -542,7 +724,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336202/",
     "year": 2002,
-    "height": 163.0,
+    "height": 163,
     "weight": 479.6
   },
   {
@@ -556,8 +738,22 @@
     "mcnty": "IRE",
     "mhref": "https://www.jbis.or.jp/horse/0000714421/",
     "year": 2011,
-    "height": 163.0,
+    "height": 163,
     "weight": 480.0
+  },
+  {
+    "name": "レイデオロ",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001189721/",
+    "sire": "キングカメハメハ",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000729458/",
+    "msire": "シンボリクリスエス",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000700008/",
+    "year": 2014,
+    "height": 163,
+    "weight": 482.7
   },
   {
     "name": "オウケンブルースリ",
@@ -570,7 +766,7 @@
     "mcnty": "CAN",
     "mhref": "https://www.jbis.or.jp/horse/0000347814/",
     "year": 2005,
-    "height": 163.0,
+    "height": 163,
     "weight": 488.3
   },
   {
@@ -584,8 +780,22 @@
     "mcnty": "FR",
     "mhref": "https://www.jbis.or.jp/horse/0000334064/",
     "year": 1992,
-    "height": 163.0,
+    "height": 163,
     "weight": 489.5
+  },
+  {
+    "name": "Sixties Icon",
+    "cnty": "GB",
+    "href": "https://www.jbis.or.jp/horse/0001002891/",
+    "sire": "Galileo",
+    "scnty": "IRE",
+    "shref": "https://www.jbis.or.jp/horse/0000714343/",
+    "msire": "Diesis",
+    "mcnty": "GB",
+    "mhref": "https://www.jbis.or.jp/horse/0000336499/",
+    "year": 2003,
+    "height": 163,
+    "weight": 490.0
   },
   {
     "name": "シルバーステート",
@@ -598,7 +808,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336890/",
     "year": 2012,
-    "height": 163.0,
+    "height": 163,
     "weight": 496.0
   },
   {
@@ -612,8 +822,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000333862/",
     "year": 2004,
-    "height": 163.0,
+    "height": 163,
     "weight": 497.5
+  },
+  {
+    "name": "Frost Giant",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0000985285/",
+    "sire": "Giant's Causeway",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000372708/",
+    "msire": "Gone West",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000337432/",
+    "year": 2003,
+    "height": 163,
+    "weight": 506.0
   },
   {
     "name": "シゲルカガ",
@@ -626,8 +850,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000340413/",
     "year": 2011,
-    "height": 163.0,
+    "height": 163,
     "weight": 512.5
+  },
+  {
+    "name": "Testa Rossa",
+    "cnty": "AUS",
+    "href": "https://www.jbis.or.jp/horse/0000700018/",
+    "sire": "Perugino",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000333903/",
+    "msire": "Sir Dapper",
+    "mcnty": "AUS",
+    "mhref": "https://www.jbis.or.jp/horse/0000340294/",
+    "year": 1996,
+    "height": 163,
+    "weight": 532.0
   },
   {
     "name": "ディープインパクト",
@@ -640,8 +878,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000339659/",
     "year": 2002,
-    "height": 164.0,
+    "height": 164,
     "weight": 443.7
+  },
+  {
+    "name": "ダノンスマッシュ",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001208468/",
+    "sire": "ロードカナロア",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0001089850/",
+    "msire": "Hard Spun",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0001051344/",
+    "year": 2015,
+    "height": 164,
+    "weight": 470.4
   },
   {
     "name": "シュヴァルグラン",
@@ -654,7 +906,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337496/",
     "year": 2012,
-    "height": 164.0,
+    "height": 164,
     "weight": 471.3
   },
   {
@@ -668,7 +920,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337274/",
     "year": 2001,
-    "height": 164.0,
+    "height": 164,
     "weight": 472.0
   },
   {
@@ -682,7 +934,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000340506/",
     "year": 2000,
-    "height": 164.0,
+    "height": 164,
     "weight": 474.5
   },
   {
@@ -696,7 +948,7 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000365118/",
     "year": 2013,
-    "height": 164.0,
+    "height": 164,
     "weight": 477.3
   },
   {
@@ -710,7 +962,7 @@
     "mcnty": "FR",
     "mhref": "https://www.jbis.or.jp/horse/0000336336/",
     "year": 1995,
-    "height": 164.0,
+    "height": 164,
     "weight": 484.0
   },
   {
@@ -724,7 +976,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336085/",
     "year": 2001,
-    "height": 164.0,
+    "height": 164,
     "weight": 488.0
   },
   {
@@ -738,8 +990,50 @@
     "mcnty": "GER",
     "mhref": "https://www.jbis.or.jp/horse/0000225910/",
     "year": 2007,
-    "height": 164.0,
+    "height": 164,
     "weight": 489.4
+  },
+  {
+    "name": "ミスターメロディ",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0001241663/",
+    "sire": "Scat Daddy",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0001003260/",
+    "msire": "Deputy Minister",
+    "mcnty": "CAN",
+    "mhref": "https://www.jbis.or.jp/horse/0000338072/",
+    "year": 2015,
+    "height": 164,
+    "weight": 490.5
+  },
+  {
+    "name": "ロジャーバローズ",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001221464/",
+    "sire": "ディープインパクト",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000742976/",
+    "msire": "Librettist",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000879782/",
+    "year": 2016,
+    "height": 164,
+    "weight": 491.3
+  },
+  {
+    "name": "ロードカナロア",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001089850/",
+    "sire": "キングカメハメハ",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000729458/",
+    "msire": "Storm Cat",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000337102/",
+    "year": 2008,
+    "height": 164,
+    "weight": 494.0
   },
   {
     "name": "Powerscourt",
@@ -752,7 +1046,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337286/",
     "year": 2000,
-    "height": 164.0,
+    "height": 164,
     "weight": 511.5
   },
   {
@@ -766,7 +1060,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336745/",
     "year": 1998,
-    "height": 164.0,
+    "height": 164,
     "weight": 542.0
   },
   {
@@ -780,8 +1074,22 @@
     "mcnty": "FR",
     "mhref": "https://www.jbis.or.jp/horse/0000336817/",
     "year": 1999,
-    "height": 165.0,
+    "height": 165,
     "weight": 425.0
+  },
+  {
+    "name": "トーセンラー",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001096885/",
+    "sire": "ディープインパクト",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000742976/",
+    "msire": "Lycius",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000340529/",
+    "year": 2008,
+    "height": 165,
+    "weight": 447.1
   },
   {
     "name": "マヤノトップガン",
@@ -794,8 +1102,22 @@
     "mcnty": "FR",
     "mhref": "https://www.jbis.or.jp/horse/0000335274/",
     "year": 1992,
-    "height": 165.0,
+    "height": 165,
     "weight": 449.9
+  },
+  {
+    "name": "Policy Maker",
+    "cnty": "IRE",
+    "href": "https://www.jbis.or.jp/horse/0000794320/",
+    "sire": "Sadler's Wells",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000336572/",
+    "msire": "Lear Fan",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000336869/",
+    "year": 2000,
+    "height": 165,
+    "weight": 454.0
   },
   {
     "name": "Golden Snake",
@@ -808,7 +1130,7 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000336666/",
     "year": 1996,
-    "height": 165.0,
+    "height": 165,
     "weight": 460.0
   },
   {
@@ -822,7 +1144,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337091/",
     "year": 1998,
-    "height": 165.0,
+    "height": 165,
     "weight": 462.0
   },
   {
@@ -836,7 +1158,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337275/",
     "year": 2004,
-    "height": 165.0,
+    "height": 165,
     "weight": 472.0
   },
   {
@@ -850,8 +1172,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000334166/",
     "year": 1986,
-    "height": 165.0,
+    "height": 165,
     "weight": 472.0
+  },
+  {
+    "name": "アドマイヤムーン",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000760877/",
+    "sire": "End Sweep",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000361855/",
+    "msire": "Sunday Silence",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000333862/",
+    "year": 2003,
+    "height": 165,
+    "weight": 473.9
   },
   {
     "name": "Right Approach",
@@ -864,7 +1200,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336881/",
     "year": 1999,
-    "height": 165.0,
+    "height": 165,
     "weight": 474.0
   },
   {
@@ -878,8 +1214,36 @@
     "mcnty": "IRE",
     "mhref": "https://www.jbis.or.jp/horse/0000336668/",
     "year": 1990,
-    "height": 165.0,
+    "height": 165,
     "weight": 478.0
+  },
+  {
+    "name": "ワールドプレミア",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001218645/",
+    "sire": "ディープインパクト",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000742976/",
+    "msire": "Acatenango",
+    "mcnty": "GER",
+    "mhref": "https://www.jbis.or.jp/horse/0000343943/",
+    "year": 2016,
+    "height": 165,
+    "weight": 479.7
+  },
+  {
+    "name": "トーセンジョーダン",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000991898/",
+    "sire": "ジャングルポケット",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000325200/",
+    "msire": "Northern Taste",
+    "mcnty": "CAN",
+    "mhref": "https://www.jbis.or.jp/horse/0000333544/",
+    "year": 2006,
+    "height": 165,
+    "weight": 482.0
   },
   {
     "name": "スズカマンボ",
@@ -892,8 +1256,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000347989/",
     "year": 2001,
-    "height": 165.0,
+    "height": 165,
     "weight": 483.7
+  },
+  {
+    "name": "Dandino",
+    "cnty": "GB",
+    "href": "https://www.jbis.or.jp/horse/0001129467/",
+    "sire": "Dansili",
+    "scnty": "GB",
+    "shref": "https://www.jbis.or.jp/horse/0000372531/",
+    "msire": "Generous",
+    "mcnty": "IRE",
+    "mhref": "https://www.jbis.or.jp/horse/0000340528/",
+    "year": 2007,
+    "height": 165,
+    "weight": 488.0
   },
   {
     "name": "エポカドーロ",
@@ -906,7 +1284,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337550/",
     "year": 2015,
-    "height": 165.0,
+    "height": 165,
     "weight": 491.4
   },
   {
@@ -920,8 +1298,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000335293/",
     "year": 1987,
-    "height": 165.0,
+    "height": 165,
     "weight": 492.0
+  },
+  {
+    "name": "Pavel",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0001303067/",
+    "sire": "Creative Cause",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0001178402/",
+    "msire": "Maria's Mon",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000362857/",
+    "year": 2014,
+    "height": 165,
+    "weight": 496.0
   },
   {
     "name": "Fruits of Love",
@@ -934,7 +1326,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000333978/",
     "year": 1995,
-    "height": 165.0,
+    "height": 165,
     "weight": 497.0
   },
   {
@@ -948,7 +1340,7 @@
     "mcnty": "ITY",
     "mhref": "https://www.jbis.or.jp/horse/0000336333/",
     "year": 1995,
-    "height": 165.0,
+    "height": 165,
     "weight": 498.0
   },
   {
@@ -962,7 +1354,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000369004/",
     "year": 2009,
-    "height": 165.0,
+    "height": 165,
     "weight": 499.7
   },
   {
@@ -976,8 +1368,50 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000333862/",
     "year": 2008,
-    "height": 165.0,
+    "height": 165,
     "weight": 500.8
+  },
+  {
+    "name": "Dolphin Street",
+    "cnty": "FR",
+    "href": "https://www.jbis.or.jp/horse/0000361031/",
+    "sire": "Bluebird",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000337486/",
+    "msire": "Irish River",
+    "mcnty": "FR",
+    "mhref": "https://www.jbis.or.jp/horse/0000336421/",
+    "year": 1990,
+    "height": 165,
+    "weight": 502.0
+  },
+  {
+    "name": "Carroll House",
+    "cnty": "IRE",
+    "href": "https://www.jbis.or.jp/horse/0000182479/",
+    "sire": "Lord Gayle",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000334343/",
+    "msire": "Silver Shark",
+    "mcnty": "IRE",
+    "mhref": "https://www.jbis.or.jp/horse/0000333435/",
+    "year": 1985,
+    "height": 165,
+    "weight": 504.0
+  },
+  {
+    "name": "オーヴァルエース",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001217150/",
+    "sire": "Henny Hughes",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0001028940/",
+    "msire": "グラスワンダー",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000299089/",
+    "year": 2016,
+    "height": 165,
+    "weight": 508.0
   },
   {
     "name": "メイショウサムソン",
@@ -990,7 +1424,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336853/",
     "year": 2003,
-    "height": 165.0,
+    "height": 165,
     "weight": 509.5
   },
   {
@@ -1004,7 +1438,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000362868/",
     "year": 2010,
-    "height": 165.0,
+    "height": 165,
     "weight": 511.9
   },
   {
@@ -1018,7 +1452,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337483/",
     "year": 2008,
-    "height": 165.0,
+    "height": 165,
     "weight": 514.4
   },
   {
@@ -1032,8 +1466,22 @@
     "mcnty": "IRE",
     "mhref": "https://www.jbis.or.jp/horse/0000336742/",
     "year": 1989,
-    "height": 165.0,
+    "height": 165,
     "weight": 516.0
+  },
+  {
+    "name": "Boom Time",
+    "cnty": "AUS",
+    "href": "https://www.jbis.or.jp/horse/0001244179/",
+    "sire": "Flying Spur",
+    "scnty": "AUS",
+    "shref": "https://www.jbis.or.jp/horse/0000363038/",
+    "msire": "Snippets",
+    "mcnty": "AUS",
+    "mhref": "https://www.jbis.or.jp/horse/0000343464/",
+    "year": 2011,
+    "height": 165,
+    "weight": 528.0
   },
   {
     "name": "Martillo",
@@ -1046,7 +1494,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336350/",
     "year": 2000,
-    "height": 165.0,
+    "height": 165,
     "weight": 532.0
   },
   {
@@ -1060,8 +1508,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000335167/",
     "year": 1996,
-    "height": 165.0,
+    "height": 165,
     "weight": 543.0
+  },
+  {
+    "name": "Allied Forces",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0000275811/",
+    "sire": "Miswaki",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000336395/",
+    "msire": "Sharpen Up",
+    "mcnty": "GB",
+    "mhref": "https://www.jbis.or.jp/horse/0000336086/",
+    "year": 1993,
+    "height": 166,
+    "weight": 462.0
   },
   {
     "name": "Guignol",
@@ -1074,7 +1536,7 @@
     "mcnty": "GER",
     "mhref": "https://www.jbis.or.jp/horse/0000361091/",
     "year": 2012,
-    "height": 166.0,
+    "height": 166,
     "weight": 468.0
   },
   {
@@ -1088,7 +1550,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336572/",
     "year": 2006,
-    "height": 166.0,
+    "height": 166,
     "weight": 476.2
   },
   {
@@ -1102,7 +1564,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337496/",
     "year": 2001,
-    "height": 166.0,
+    "height": 166,
     "weight": 478.7
   },
   {
@@ -1116,8 +1578,22 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000336887/",
     "year": 1994,
-    "height": 166.0,
+    "height": 166,
     "weight": 482.0
+  },
+  {
+    "name": "バブルガムフェロー",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000274914/",
+    "sire": "Sunday Silence",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000333862/",
+    "msire": "Lyphard",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000334968/",
+    "year": 1993,
+    "height": 166,
+    "weight": 482.2
   },
   {
     "name": "Montjeu",
@@ -1130,8 +1606,22 @@
     "mcnty": "IRE",
     "mhref": "https://www.jbis.or.jp/horse/0000336543/",
     "year": 1996,
-    "height": 166.0,
+    "height": 166,
     "weight": 484.0
+  },
+  {
+    "name": "ドゥラメンテ",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001151936/",
+    "sire": "キングカメハメハ",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000729458/",
+    "msire": "Sunday Silence",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000333862/",
+    "year": 2012,
+    "height": 166,
+    "weight": 487.5
   },
   {
     "name": "Rakti",
@@ -1144,7 +1634,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337286/",
     "year": 1999,
-    "height": 166.0,
+    "height": 166,
     "weight": 490.8
   },
   {
@@ -1158,7 +1648,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337102/",
     "year": 2011,
-    "height": 166.0,
+    "height": 166,
     "weight": 494.4
   },
   {
@@ -1172,7 +1662,7 @@
     "mcnty": "JPN",
     "mhref": "https://www.jbis.or.jp/horse/0000318739/",
     "year": 1997,
-    "height": 166.0,
+    "height": 166,
     "weight": 495.1
   },
   {
@@ -1186,7 +1676,7 @@
     "mcnty": "IRE",
     "mhref": "https://www.jbis.or.jp/horse/0000337436/",
     "year": 2001,
-    "height": 166.0,
+    "height": 166,
     "weight": 497.0
   },
   {
@@ -1200,7 +1690,7 @@
     "mcnty": "IRE",
     "mhref": "https://www.jbis.or.jp/horse/0000341019/",
     "year": 2009,
-    "height": 166.0,
+    "height": 166,
     "weight": 500.4
   },
   {
@@ -1214,8 +1704,22 @@
     "mcnty": "JPN",
     "mhref": "https://www.jbis.or.jp/horse/0000274883/",
     "year": 2011,
-    "height": 166.0,
+    "height": 166,
     "weight": 500.6
+  },
+  {
+    "name": "Court Masterpiece",
+    "cnty": "GB",
+    "href": "https://www.jbis.or.jp/horse/0001000914/",
+    "sire": "Polish Precedent",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000342688/",
+    "msire": "Prince Sabo",
+    "mcnty": "GB",
+    "mhref": "https://www.jbis.or.jp/horse/0000345224/",
+    "year": 2000,
+    "height": 166,
+    "weight": 501.0
   },
   {
     "name": "マルカシェンク",
@@ -1228,7 +1732,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000347622/",
     "year": 2003,
-    "height": 166.0,
+    "height": 166,
     "weight": 501.2
   },
   {
@@ -1242,7 +1746,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336203/",
     "year": 2001,
-    "height": 166.0,
+    "height": 166,
     "weight": 512.8
   },
   {
@@ -1256,8 +1760,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000333862/",
     "year": 2011,
-    "height": 166.0,
+    "height": 166,
     "weight": 515.0
+  },
+  {
+    "name": "アルアイン",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001191607/",
+    "sire": "ディープインパクト",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000742976/",
+    "msire": "Essence of Dubai",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000714948/",
+    "year": 2014,
+    "height": 166,
+    "weight": 519.7
   },
   {
     "name": "Saddex",
@@ -1270,8 +1788,22 @@
     "mcnty": "FR",
     "mhref": "https://www.jbis.or.jp/horse/0000336421/",
     "year": 2003,
-    "height": 166.0,
+    "height": 166,
     "weight": 524.0
+  },
+  {
+    "name": "アジアエクスプレス",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0001177896/",
+    "sire": "Henny Hughes",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0001028940/",
+    "msire": "Running Stag",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000369565/",
+    "year": 2011,
+    "height": 166,
+    "weight": 535.7
   },
   {
     "name": "スペシャルウィーク",
@@ -1284,7 +1816,7 @@
     "mcnty": "JPN",
     "mhref": "https://www.jbis.or.jp/horse/0000069360/",
     "year": 1995,
-    "height": 167.0,
+    "height": 167,
     "weight": 471.9
   },
   {
@@ -1298,7 +1830,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000341457/",
     "year": 2002,
-    "height": 167.0,
+    "height": 167,
     "weight": 492.0
   },
   {
@@ -1312,7 +1844,7 @@
     "mcnty": "CAN",
     "mhref": "https://www.jbis.or.jp/horse/0000338072/",
     "year": 2001,
-    "height": 167.0,
+    "height": 167,
     "weight": 493.4
   },
   {
@@ -1326,7 +1858,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000299089/",
     "year": 2012,
-    "height": 167.0,
+    "height": 167,
     "weight": 494.8
   },
   {
@@ -1340,12 +1872,12 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000339659/",
     "year": 2001,
-    "height": 167.0,
+    "height": 167,
     "weight": 494.9
   },
   {
-    "cnty": "JPN",
     "name": "ホッコータルマエ",
+    "cnty": "JPN",
     "href": "https://www.jbis.or.jp/horse/0001107477/",
     "sire": "キングカメハメハ",
     "scnty": "JPN",
@@ -1354,7 +1886,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000347612/",
     "year": 2009,
-    "height": 167.0,
+    "height": 167,
     "weight": 497.2
   },
   {
@@ -1368,7 +1900,7 @@
     "mcnty": "IRE",
     "mhref": "https://www.jbis.or.jp/horse/0000161740/",
     "year": 2007,
-    "height": 167.0,
+    "height": 167,
     "weight": 497.4
   },
   {
@@ -1382,7 +1914,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000340529/",
     "year": 2009,
-    "height": 167.0,
+    "height": 167,
     "weight": 498.1
   },
   {
@@ -1396,7 +1928,7 @@
     "mcnty": "JPN",
     "mhref": "https://www.jbis.or.jp/horse/0000293624/",
     "year": 2013,
-    "height": 167.0,
+    "height": 167,
     "weight": 498.4
   },
   {
@@ -1410,7 +1942,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336572/",
     "year": 1993,
-    "height": 167.0,
+    "height": 167,
     "weight": 499.2
   },
   {
@@ -1424,7 +1956,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337380/",
     "year": 2000,
-    "height": 167.0,
+    "height": 167,
     "weight": 499.4
   },
   {
@@ -1438,7 +1970,7 @@
     "mcnty": "CAN",
     "mhref": "https://www.jbis.or.jp/horse/0000334002/",
     "year": 1997,
-    "height": 167.0,
+    "height": 167,
     "weight": 503.5
   },
   {
@@ -1452,7 +1984,7 @@
     "mcnty": "CAN",
     "mhref": "https://www.jbis.or.jp/horse/0000337102/",
     "year": 2012,
-    "height": 167.0,
+    "height": 167,
     "weight": 503.5
   },
   {
@@ -1466,7 +1998,7 @@
     "mcnty": "JPN",
     "mhref": "https://www.jbis.or.jp/horse/0000203356/",
     "year": 2009,
-    "height": 167.0,
+    "height": 167,
     "weight": 503.6
   },
   {
@@ -1480,7 +2012,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000369736/",
     "year": 2013,
-    "height": 167.0,
+    "height": 167,
     "weight": 503.8
   },
   {
@@ -1494,7 +2026,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000335975/",
     "year": 2004,
-    "height": 167.0,
+    "height": 167,
     "weight": 504.0
   },
   {
@@ -1508,8 +2040,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000335964/",
     "year": 2006,
-    "height": 167.0,
+    "height": 167,
     "weight": 513.1
+  },
+  {
+    "name": "カネヒキリ",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000742946/",
+    "sire": "フジキセキ",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000262443/",
+    "msire": "Deputy Minister",
+    "mcnty": "CAN",
+    "mhref": "https://www.jbis.or.jp/horse/0000338072/",
+    "year": 2002,
+    "height": 167,
+    "weight": 517.5
   },
   {
     "name": "Tizway",
@@ -1522,7 +2068,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000341551/",
     "year": 2005,
-    "height": 167.0,
+    "height": 167,
     "weight": 528.0
   },
   {
@@ -1536,8 +2082,36 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000344896/",
     "year": 1999,
-    "height": 167.0,
+    "height": 167,
     "weight": 531.3
+  },
+  {
+    "name": "Tout Seul",
+    "cnty": "IRE",
+    "href": "https://www.jbis.or.jp/horse/0000203636/",
+    "sire": "Ali-Royal",
+    "scnty": "IRE",
+    "shref": "https://www.jbis.or.jp/horse/0000369059/",
+    "msire": "Groom Dancer",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000336862/",
+    "year": 2000,
+    "height": 168,
+    "weight": 416.0
+  },
+  {
+    "name": "Tiger Groom",
+    "cnty": "GB",
+    "href": "https://www.jbis.or.jp/horse/0000763192/",
+    "sire": "Arazi",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000340633/",
+    "msire": "Ela-Mana-Mou",
+    "mcnty": "IRE",
+    "mhref": "https://www.jbis.or.jp/horse/0000336370/",
+    "year": 1997,
+    "height": 168,
+    "weight": 430.0
   },
   {
     "name": "Passing Glance",
@@ -1550,7 +2124,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336744/",
     "year": 1999,
-    "height": 168.0,
+    "height": 168,
     "weight": 465.0
   },
   {
@@ -1564,7 +2138,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000361396/",
     "year": 2017,
-    "height": 168.0,
+    "height": 168,
     "weight": 476.0
   },
   {
@@ -1578,7 +2152,7 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000333614/",
     "year": 1987,
-    "height": 168.0,
+    "height": 168,
     "weight": 478.0
   },
   {
@@ -1592,7 +2166,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336395/",
     "year": 1996,
-    "height": 168.0,
+    "height": 168,
     "weight": 478.1
   },
   {
@@ -1606,7 +2180,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000339922/",
     "year": 2003,
-    "height": 168.0,
+    "height": 168,
     "weight": 483.2
   },
   {
@@ -1620,8 +2194,64 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336745/",
     "year": 1993,
-    "height": 168.0,
+    "height": 168,
     "weight": 490.0
+  },
+  {
+    "name": "ネオユニヴァース",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000701577/",
+    "sire": "Sunday Silence",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000333862/",
+    "msire": "Kris",
+    "mcnty": "GB",
+    "mhref": "https://www.jbis.or.jp/horse/0000336087/",
+    "year": 2000,
+    "height": 168,
+    "weight": 490.3
+  },
+  {
+    "name": "ロゴタイプ",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001124405/",
+    "sire": "ローエングリン",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000619817/",
+    "msire": "Sunday Silence",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000333862/",
+    "year": 2010,
+    "height": 168,
+    "weight": 490.6
+  },
+  {
+    "name": "トーホウジャッカル",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001140023/",
+    "sire": "スペシャルウィーク",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000293624/",
+    "msire": "Unbridled's Song",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000361396/",
+    "year": 2011,
+    "height": 168,
+    "weight": 491.7
+  },
+  {
+    "name": "Mores Wells",
+    "cnty": "GB",
+    "href": "https://www.jbis.or.jp/horse/0001129462/",
+    "sire": "Sadler's Wells",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000336572/",
+    "msire": "Warning",
+    "mcnty": "GB",
+    "mhref": "https://www.jbis.or.jp/horse/0000342675/",
+    "year": 2004,
+    "height": 168,
+    "weight": 502.0
   },
   {
     "name": "Pilsudski",
@@ -1634,8 +2264,36 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000336179/",
     "year": 1992,
-    "height": 168.0,
+    "height": 168,
     "weight": 502.0
+  },
+  {
+    "name": "サトノアレス",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001189935/",
+    "sire": "ディープインパクト",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000742976/",
+    "msire": "Danehill",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000337424/",
+    "year": 2014,
+    "height": 168,
+    "weight": 506.0
+  },
+  {
+    "name": "トーセンホマレボシ",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001103854/",
+    "sire": "ディープインパクト",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000742976/",
+    "msire": "Northern Taste",
+    "mcnty": "CAN",
+    "mhref": "https://www.jbis.or.jp/horse/0000333544/",
+    "year": 2009,
+    "height": 168,
+    "weight": 506.3
   },
   {
     "name": "タイキシャトル",
@@ -1648,8 +2306,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336202/",
     "year": 1994,
-    "height": 168.0,
+    "height": 168,
     "weight": 507.2
+  },
+  {
+    "name": "グランプリボス",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000995275/",
+    "sire": "サクラバクシンオー",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000225628/",
+    "msire": "Sunday Silence",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000333862/",
+    "year": 2008,
+    "height": 168,
+    "weight": 510.9
   },
   {
     "name": "ストロングリターン",
@@ -1662,7 +2334,7 @@
     "mcnty": "CAN",
     "mhref": "https://www.jbis.or.jp/horse/0000365210/",
     "year": 2006,
-    "height": 168.0,
+    "height": 168,
     "weight": 511.4
   },
   {
@@ -1676,7 +2348,7 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000337223/",
     "year": 1998,
-    "height": 168.0,
+    "height": 168,
     "weight": 512.0
   },
   {
@@ -1690,7 +2362,7 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000336087/",
     "year": 1999,
-    "height": 168.0,
+    "height": 168,
     "weight": 512.0
   },
   {
@@ -1704,7 +2376,7 @@
     "mcnty": "IRE",
     "mhref": "https://www.jbis.or.jp/horse/0000161740/",
     "year": 2006,
-    "height": 168.0,
+    "height": 168,
     "weight": 512.6
   },
   {
@@ -1718,7 +2390,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000352327/",
     "year": 1998,
-    "height": 168.0,
+    "height": 168,
     "weight": 513.6
   },
   {
@@ -1732,7 +2404,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000345372/",
     "year": 2007,
-    "height": 168.0,
+    "height": 168,
     "weight": 514.1
   },
   {
@@ -1746,7 +2418,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000347989/",
     "year": 2011,
-    "height": 168.0,
+    "height": 168,
     "weight": 522.3
   },
   {
@@ -1760,7 +2432,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000333862/",
     "year": 2007,
-    "height": 168.0,
+    "height": 168,
     "weight": 529.9
   },
   {
@@ -1774,8 +2446,36 @@
     "mcnty": "GB",
     "mhref": "https://www.jbis.or.jp/horse/0000336666/",
     "year": 1992,
-    "height": 168.0,
+    "height": 168,
     "weight": 530.0
+  },
+  {
+    "name": "Danewin",
+    "cnty": "AUS",
+    "href": "https://www.jbis.or.jp/horse/0000367924/",
+    "sire": "Danehill",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000337424/",
+    "msire": "My Swanee",
+    "mcnty": "GB",
+    "mhref": "https://www.jbis.or.jp/horse/0000334726/",
+    "year": 1991,
+    "height": 168,
+    "weight": 532.0
+  },
+  {
+    "name": "マスクゾロ",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0001177848/",
+    "sire": "Roman Ruler",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000876564/",
+    "msire": "Giant's Causeway",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000372708/",
+    "year": 2011,
+    "height": 168,
+    "weight": 535.2
   },
   {
     "name": "Student Council",
@@ -1788,7 +2488,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336209/",
     "year": 2002,
-    "height": 168.0,
+    "height": 168,
     "weight": 550.0
   },
   {
@@ -1802,7 +2502,7 @@
     "mcnty": "CAN",
     "mhref": "https://www.jbis.or.jp/horse/0000333996/",
     "year": 1993,
-    "height": 169.0,
+    "height": 169,
     "weight": 501.5
   },
   {
@@ -1816,8 +2516,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336085/",
     "year": 1999,
-    "height": 169.0,
+    "height": 169,
     "weight": 502.3
+  },
+  {
+    "name": "モーリス",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001138240/",
+    "sire": "スクリーンヒーロー",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000801447/",
+    "msire": "Carnegie",
+    "mcnty": "IRE",
+    "mhref": "https://www.jbis.or.jp/horse/0000358543/",
+    "year": 2011,
+    "height": 169,
+    "weight": 505.1
   },
   {
     "name": "ルックスザットキル",
@@ -1830,8 +2544,36 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000347573/",
     "year": 2012,
-    "height": 169.0,
+    "height": 169,
     "weight": 513.9
+  },
+  {
+    "name": "スリリングサンデー",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000308973/",
+    "sire": "Sunday Silence",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000333862/",
+    "msire": "Northern Taste",
+    "mcnty": "CAN",
+    "mhref": "https://www.jbis.or.jp/horse/0000333544/",
+    "year": 1996,
+    "height": 169,
+    "weight": 514.0
+  },
+  {
+    "name": "ダイワメジャー",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000725485/",
+    "sire": "Sunday Silence",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000333862/",
+    "msire": "Northern Taste",
+    "mcnty": "CAN",
+    "mhref": "https://www.jbis.or.jp/horse/0000333544/",
+    "year": 2001,
+    "height": 169,
+    "weight": 529.6
   },
   {
     "name": "Dano-Mast",
@@ -1844,7 +2586,7 @@
     "mcnty": "IRE",
     "mhref": "https://www.jbis.or.jp/horse/0000340142/",
     "year": 1996,
-    "height": 169.0,
+    "height": 169,
     "weight": 530.5
   },
   {
@@ -1858,22 +2600,8 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000333862/",
     "year": 2008,
-    "height": 169.0,
+    "height": 169,
     "weight": 536.7
-  },
-  {
-    "name": "サトノアラジン",
-    "cnty": "JPN",
-    "href": "https://www.jbis.or.jp/horse/0001137571/",
-    "sire": "ディープインパクト",
-    "scnty": "JPN",
-    "shref": "https://www.jbis.or.jp/horse/0000742976/",
-    "msire": "Storm Cat",
-    "mcnty": "USA",
-    "mhref": "https://www.jbis.or.jp/horse/0000337102/",
-    "year": 2011,
-    "height": 170.0,
-    "weight": 0
   },
   {
     "name": "マンハッタンカフェ",
@@ -1886,8 +2614,22 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000336203/",
     "year": 1998,
-    "height": 170.0,
+    "height": 170,
     "weight": 492.9
+  },
+  {
+    "name": "コパノリッキー",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001123166/",
+    "sire": "ゴールドアリュール",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000619768/",
+    "msire": "Timber Country",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000333901/",
+    "year": 2010,
+    "height": 170,
+    "weight": 533.7
   },
   {
     "name": "Ivanhowe",
@@ -1900,8 +2642,50 @@
     "mcnty": "IRE",
     "mhref": "https://www.jbis.or.jp/horse/0000361135/",
     "year": 2010,
-    "height": 170.0,
+    "height": 170,
     "weight": 534.0
+  },
+  {
+    "name": "Marsh Side",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0001027999/",
+    "sire": "Gone West",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000337432/",
+    "msire": "Pleasant Colony",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000335991/",
+    "year": 2003,
+    "height": 170,
+    "weight": 536.0
+  },
+  {
+    "name": "ポアゾンブラック",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001109433/",
+    "sire": "マイネルラヴ",
+    "scnty": "USA",
+    "shref": "https://www.jbis.or.jp/horse/0000298971/",
+    "msire": "Chief Bearhart",
+    "mcnty": "CAN",
+    "mhref": "https://www.jbis.or.jp/horse/0000365159/",
+    "year": 2009,
+    "height": 171,
+    "weight": 521.9
+  },
+  {
+    "name": "サトノアラジン",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001137571/",
+    "sire": "ディープインパクト",
+    "scnty": "JPN",
+    "shref": "https://www.jbis.or.jp/horse/0000742976/",
+    "msire": "Storm Cat",
+    "mcnty": "USA",
+    "mhref": "https://www.jbis.or.jp/horse/0000337102/",
+    "year": 2011,
+    "height": 171,
+    "weight": 524.1
   },
   {
     "name": "ヴィクトワールピサ",
@@ -1914,7 +2698,7 @@
     "mcnty": "USA",
     "mhref": "https://www.jbis.or.jp/horse/0000337496/",
     "year": 2007,
-    "height": 172.0,
+    "height": 172,
     "weight": 511.5
   }
 ]

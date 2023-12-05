@@ -24,12 +24,15 @@ p {
   display: flex;
   margin: 0;
 }
+p:nth-child(2n) {
+  filter: invert(.05);
+}
 body {
   color: #ccc;
   width: min-content;
   margin: 0 auto;
   background-color: #000;
-  font: clamp(10px,2.2vw,12px)/40px menlo,consolas,monospace;
+  font: clamp(10px,2.2vw,12px)/36px menlo,consolas,monospace;
   user-select: none;
   white-space: pre
 }
