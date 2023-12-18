@@ -39,21 +39,20 @@ for (let i = 0, h = 0; i < heights.length; ++i) {
   let cnty = item.cnty;
   let href = item.href;
   let sire = item.sire;
-  let scnty = item.scnty;
   let shref = item.shref;
   let msire = item.msire;
-  let mcnty = item.mcnty;
   let mhref = item.mhref;
   let year = item.year;
   let height = item.height;
   let weight  = item.weight;
+  let trust = item.trust_weight;
   let ratio = weight ? ((weight / ((height / 100) ** 2)) + .05)  : 0;
   
   html +=
 `${h != height ? height : ""}` +
 `<p>` +
 `<a href=${href.slice(href[12] == "j" ? -11 : 6)} a>${name}</a>` +
-`${ratio ? "<s>" + ratio.toString().slice(0, 5) + "</s>(<s>" + weight + "</s>) " : "    (<s> - </s>) "}` +
+`${ratio ? (trust ? "<s>" : "<i>") + ratio.toString().slice(0, 5) + (trust ? "</s>(<s>" : "</i>(<i>") + weight + (trust ? "</s>) " : "</i>) ") : "    (<s> - </s>) "}` +
 `${year}.${cnty.padEnd(5)}` +
 `<a href=${shref.slice(-11)} b>${sire}</a>/<a href=${mhref.slice(-11)} b>${msire}</a>` +
 `</p>`
