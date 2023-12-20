@@ -1,5 +1,18 @@
 [
   {
+    "name": "Northern Dancer",
+    "cnty": "CAN",
+    "href": "https://www.jbis.or.jp/horse/0000334002/",
+    "sire": "Nearctic",
+    "shref": "https://www.jbis.or.jp/horse/0000334378/",
+    "msire": "Native Dancer",
+    "mhref": "https://www.jbis.or.jp/horse/0000334375/",
+    "year": 1961,
+    "height": 155,
+    "weight": 426,
+    "trust_weight": false
+  },
+  {
     "name": "ショウナンカンプ",
     "cnty": "JPN",
     "href": "https://www.jbis.or.jp/horse/0000325977/",
@@ -37,6 +50,19 @@
     "height": 157,
     "weight": 434,
     "trust_weight": true
+  },
+  {
+    "name": "War Admiral",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0000334825/",
+    "sire": "Man o' War",
+    "shref": "https://www.jbis.or.jp/horse/0000334825/",
+    "msire": "Sweep",
+    "mhref": "https://www.jbis.or.jp/horse/0000335086/",
+    "year": 1934,
+    "height": 157,
+    "weight": 435,
+    "trust_weight": false
   },
   {
     "name": "キャプテントゥーレ",
@@ -1846,19 +1872,6 @@
     "trust_weight": true
   },
   {
-    "name": "Seattle Slew",
-    "cnty": "USA",
-    "href": "https://www.jbis.or.jp/horse/0000335964/",
-    "sire": "Bold Reasoning",
-    "shref": "https://www.jbis.or.jp/horse/0000335859/",
-    "msire": "Poker",
-    "mhref": "https://www.jbis.or.jp/horse/0000334764/",
-    "year": 1974,
-    "height": 163,
-    "weight": 508,
-    "trust_weight": true
-  },
-  {
     "name": "フジキセキ",
     "cnty": "JPN",
     "href": "https://www.jbis.or.jp/horse/0000262443/",
@@ -1922,6 +1935,19 @@
     "height": 163,
     "weight": 532,
     "trust_weight": true
+  },
+  {
+    "name": "Quality Seeker",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0001294673/",
+    "sire": "Quality Road",
+    "shref": "https://www.jbis.or.jp/horse/0001112380/",
+    "msire": "Arch",
+    "mhref": "https://www.jbis.or.jp/horse/0000369802/",
+    "year": 2015,
+    "height": 163,
+    "weight": 535,
+    "trust_weight": false
   },
   {
     "name": "Waldgeist",
@@ -2077,6 +2103,19 @@
     "year": 1987,
     "height": 164,
     "weight": 476,
+    "trust_weight": true
+  },
+  {
+    "name": "ナリタブライアン",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000249114/",
+    "sire": "Brian's Time",
+    "shref": "https://www.jbis.or.jp/horse/0000333844/",
+    "msire": "Northern Dancer",
+    "mhref": "https://www.jbis.or.jp/horse/0000334002/",
+    "year": 1991,
+    "height": 164,
+    "weight": 478,
     "trust_weight": true
   },
   {
@@ -3752,7 +3791,7 @@
     "msire": "Irish River",
     "mhref": "https://www.jbis.or.jp/horse/0000336421/",
     "year": 2003,
-    "height": 166,
+    "height": 165,
     "weight": 524,
     "trust_weight": true
   },
@@ -5668,6 +5707,19 @@
     "trust_weight": true
   },
   {
+    "name": "Man o' War",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0000334825/",
+    "sire": "Fair Play",
+    "shref": "https://www.jbis.or.jp/horse/0000334826/",
+    "msire": "Rock Sand",
+    "mhref": "https://www.jbis.or.jp/horse/0000334820/",
+    "year": 1917,
+    "height": 169,
+    "weight": 499,
+    "trust_weight": false
+  },
+  {
     "name": "オンファイア",
     "cnty": "JPN",
     "href": "https://www.jbis.or.jp/horse/0000762497/",
@@ -5759,6 +5811,19 @@
     "trust_weight": true
   },
   {
+    "name": "Arrogate",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0001244581/",
+    "sire": "Unbridled's Song",
+    "shref": "https://www.jbis.or.jp/horse/0000361396/",
+    "msire": "Distorted Humor",
+    "mhref": "https://www.jbis.or.jp/horse/0000365171/",
+    "year": 2013,
+    "height": 169,
+    "weight": 534,
+    "trust_weight": true
+  },
+  {
     "name": "Dano-Mast",
     "cnty": "GB",
     "href": "https://www.jbis.or.jp/horse/0000714345/",
@@ -5796,6 +5861,19 @@
     "height": 169,
     "weight": 540,
     "trust_weight": true
+  },
+  {
+    "name": "Curlin",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0001051353/",
+    "sire": "Smart Strike",
+    "shref": "https://www.jbis.or.jp/horse/0000365210/",
+    "msire": "Deputy Minister",
+    "mhref": "https://www.jbis.or.jp/horse/0000338072/",
+    "year": 2004,
+    "height": 169,
+    "weight": 658,
+    "trust_weight": false
   },
   {
     "name": "サムソンハッピー",
@@ -6032,6 +6110,19 @@
     "trust_weight": true
   },
   {
+    "name": "Native Dancer",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0000334375/",
+    "sire": "Polynesian",
+    "shref": "https://www.jbis.or.jp/horse/0000334853/",
+    "msire": "Discovery",
+    "mhref": "https://www.jbis.or.jp/horse/0000335470/",
+    "year": 1950,
+    "height": 170,
+    "weight": 544,
+    "trust_weight": false
+  },
+  {
     "name": "ラニ",
     "cnty": "USA",
     "href": "https://www.jbis.or.jp/horse/0001194505/",
@@ -6144,7 +6235,7 @@
     "msire": "Ghostzapper",
     "mhref": "https://www.jbis.or.jp/horse/0000978108/",
     "year": 2015,
-    "height": 170,
+    "height": 172,
     "weight": 626,
     "trust_weight": false
   },
