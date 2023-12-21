@@ -117,6 +117,19 @@
     "trust_weight": true
   },
   {
+    "name": "Seabiscult",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0000335682/",
+    "sire": "Hard Tack",
+    "shref": "https://www.jbis.or.jp/horse/0000336207/",
+    "msire": "Whisk Broom",
+    "mhref": "https://www.jbis.or.jp/horse/0000339138/",
+    "year": 1933,
+    "height": 158,
+    "weight": 472,
+    "trust_weight": false
+  },
+  {
     "name": "ヒガシウィルウィン",
     "cnty": "JPN",
     "href": "https://www.jbis.or.jp/horse/0001187704/",
@@ -182,19 +195,6 @@
     "trust_weight": true
   },
   {
-    "name": "デュランダル",
-    "cnty": "JPN",
-    "href": "https://www.jbis.or.jp/horse/0000619835/",
-    "sire": "Sunday Silence",
-    "shref": "https://www.jbis.or.jp/horse/0000333862/",
-    "msire": "Northern Taste",
-    "mhref": "https://www.jbis.or.jp/horse/0000333544/",
-    "year": 1999,
-    "height": 159,
-    "weight": 460,
-    "trust_weight": true
-  },
-  {
     "name": "Soldier Hollow",
     "cnty": "GB",
     "href": "https://www.jbis.or.jp/horse/0000769391/",
@@ -205,6 +205,19 @@
     "year": 1989,
     "height": 159,
     "weight": 454,
+    "trust_weight": true
+  },
+  {
+    "name": "デュランダル",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000619835/",
+    "sire": "Sunday Silence",
+    "shref": "https://www.jbis.or.jp/horse/0000333862/",
+    "msire": "Northern Taste",
+    "mhref": "https://www.jbis.or.jp/horse/0000333544/",
+    "year": 1999,
+    "height": 159,
+    "weight": 460,
     "trust_weight": true
   },
   {
@@ -1950,6 +1963,19 @@
     "trust_weight": false
   },
   {
+    "name": "Rekindling",
+    "cnty": "GB",
+    "href": "https://www.jbis.or.jp/horse/0001241517/",
+    "sire": "High Chaparral",
+    "shref": "https://www.jbis.or.jp/horse/0000719408/",
+    "msire": "Salse",
+    "mhref": "https://www.jbis.or.jp/horse/0000337556/",
+    "year": 2014,
+    "height": 164,
+    "weight": 420,
+    "trust_weight": true
+  },
+  {
     "name": "Waldgeist",
     "cnty": "GB",
     "href": "https://www.jbis.or.jp/horse/0001293678/",
@@ -2444,6 +2470,19 @@
     "trust_weight": true
   },
   {
+    "name": "トウショウボーイ",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000061253/",
+    "sire": "Tesco Boy",
+    "shref": "https://www.jbis.or.jp/horse/0000333299/",
+    "msire": "Your Host",
+    "mhref": "https://www.jbis.or.jp/horse/0000334591/",
+    "year": 1973,
+    "height": 164,
+    "weight": 506,
+    "trust_weight": false
+  },
+  {
     "name": "パーソナルラッシュ",
     "cnty": "USA",
     "href": "https://www.jbis.or.jp/horse/0000763904/",
@@ -2494,6 +2533,19 @@
     "height": 164,
     "weight": 509,
     "trust_weight": true
+  },
+  {
+    "name": "Saxson Warrior",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0001208401/",
+    "sire": "ディープインパクト",
+    "shref": "https://www.jbis.or.jp/horse/0000742976/",
+    "msire": "Galileo",
+    "mhref": "https://www.jbis.or.jp/horse/0000714343/",
+    "year": 2015,
+    "height": 164,
+    "weight": 510,
+    "trust_weight": false
   },
   {
     "name": "Spanish Moon",
@@ -2845,6 +2897,19 @@
     "height": 165,
     "weight": 474,
     "trust_weight": true
+  },
+  {
+    "name": "Orb",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0001194536/",
+    "sire": "Malibu Moon",
+    "shref": "https://www.jbis.or.jp/horse/0000776823/",
+    "msire": "Unbridled",
+    "mhref": "https://www.jbis.or.jp/horse/0000340629/",
+    "year": 2010,
+    "height": 165,
+    "weight": 476,
+    "trust_weight": false
   },
   {
     "name": "Lando",
@@ -3965,6 +4030,19 @@
     "trust_weight": false
   },
   {
+    "name": "War Emblem",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0000731452/",
+    "sire": "Our Emblem",
+    "shref": "https://www.jbis.or.jp/horse/0000362883/",
+    "msire": "Lord At Wars",
+    "mhref": "https://www.jbis.or.jp/horse/0000336772/",
+    "year": 1999,
+    "height": 166,
+    "weight": 454,
+    "trust_weight": false
+  },
+  {
     "name": "Dunaden",
     "cnty": "FR",
     "href": "https://www.jbis.or.jp/horse/0001178416/",
@@ -4953,6 +5031,19 @@
     "trust_weight": true
   },
   {
+    "name": "Churchill",
+    "cnty": "IRE",
+    "href": "https://www.jbis.or.jp/horse/0001293620/",
+    "sire": "Galileo",
+    "shref": "https://www.jbis.or.jp/horse/0000714343/",
+    "msire": "Storm Cat",
+    "mhref": "https://www.jbis.or.jp/horse/0000337102/",
+    "year": 2001,
+    "height": 167,
+    "weight": 540,
+    "trust_weight": false
+  },
+  {
     "name": "タイセイレジェンド",
     "cnty": "JPN",
     "href": "https://www.jbis.or.jp/horse/0001043835/",
@@ -5317,6 +5408,19 @@
     "trust_weight": true
   },
   {
+    "name": "Talkin Man",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0000361973/",
+    "sire": "With Approval",
+    "shref": "https://www.jbis.or.jp/horse/0000337554/",
+    "msire": "Miswaki",
+    "mhref": "https://www.jbis.or.jp/horse/0000336395/",
+    "year": 1992,
+    "height": 168,
+    "weight": 508,
+    "trust_weight": false
+  },
+  {
     "name": "サムライハート",
     "cnty": "JPN",
     "href": "https://www.jbis.or.jp/horse/0000742996/",
@@ -5642,6 +5746,19 @@
     "trust_weight": true
   },
   {
+    "name": "Ferrule",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0000715572/",
+    "sire": "Danehill",
+    "shref": "https://www.jbis.or.jp/horse/0000337424/",
+    "msire": "Damascus",
+    "mhref": "https://www.jbis.or.jp/horse/0000334660/",
+    "year": 1998,
+    "height": 168,
+    "weight": 581,
+    "trust_weight": true
+  },
+  {
     "name": "Nadal",
     "cnty": "USA",
     "href": "https://www.jbis.or.jp/horse/0001328857/",
@@ -5651,7 +5768,7 @@
     "mhref": "https://www.jbis.or.jp/horse/0000337958/",
     "year": 2017,
     "height": 168,
-    "weight": 630,
+    "weight": 590,
     "trust_weight": false
   },
   {
@@ -5954,6 +6071,19 @@
     "trust_weight": true
   },
   {
+    "name": "グリーングラス",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000058685/",
+    "sire": "Intermezzo",
+    "shref": "https://www.jbis.or.jp/horse/0000333376/",
+    "msire": "Nimbus",
+    "mhref": "https://www.jbis.or.jp/horse/0000333244/",
+    "year": 1973,
+    "height": 170,
+    "weight": 513,
+    "trust_weight": true
+  },
+  {
     "name": "ヴァーミリアン",
     "cnty": "JPN",
     "href": "https://www.jbis.or.jp/horse/0000742999/",
@@ -6045,6 +6175,19 @@
     "trust_weight": true
   },
   {
+    "name": "McKinzie",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0001300974/",
+    "sire": "Street Sence",
+    "shref": "https://www.jbis.or.jp/horse/0001031979/",
+    "msire": "Petionville",
+    "mhref": "https://www.jbis.or.jp/horse/0000362890/",
+    "year": 2015,
+    "height": 170,
+    "weight": 534,
+    "trust_weight": true
+  },
+  {
     "name": "Workforce",
     "cnty": "GB",
     "href": "https://www.jbis.or.jp/horse/0001129430/",
@@ -6123,6 +6266,19 @@
     "trust_weight": false
   },
   {
+    "name": "Silky Sullivan",
+    "cnty": "USA",
+    "href": "https://www.jbis.or.jp/horse/0000354368/",
+    "sire": "Sullivan",
+    "shref": "https://www.jbis.or.jp/horse/0000351738/",
+    "msire": "Ambrose Light",
+    "mhref": "https://www.jbis.or.jp/horse/0000335389/",
+    "year": 1955,
+    "height": 170,
+    "weight": 544,
+    "trust_weight": false
+  },
+  {
     "name": "ラニ",
     "cnty": "USA",
     "href": "https://www.jbis.or.jp/horse/0001194505/",
@@ -6136,6 +6292,19 @@
     "trust_weight": true
   },
   {
+    "name": "Hitotsu",
+    "cnty": "AUS",
+    "href": "https://www.jbis.or.jp/horse/0001351010/",
+    "sire": "モーリス",
+    "shref": "https://www.jbis.or.jp/horse/0001138240/",
+    "msire": "Redoute's Choice",
+    "mhref": "https://www.jbis.or.jp/horse/0000375619/",
+    "year": 2018,
+    "height": 170,
+    "weight": 560,
+    "trust_weight": false
+  },
+  {
     "name": "ゴルトマイスター",
     "cnty": "JPN",
     "href": "https://www.jbis.or.jp/horse/0001219361/",
@@ -6147,6 +6316,19 @@
     "height": 170,
     "weight": 562,
     "trust_weight": true
+  },
+  {
+    "name": "Endless Drama",
+    "cnty": "IRE",
+    "href": "https://www.pedigreequery.com/endless+drama",
+    "sire": "Lope De Vega",
+    "shref": "https://www.jbis.or.jp/horse/0001115412/",
+    "msire": "Green Desert",
+    "mhref": "https://www.jbis.or.jp/horse/0000336430/",
+    "year": 2012,
+    "height": 170,
+    "weight": 600,
+    "trust_weight": false
   },
   {
     "name": "ポアゾンブラック",
@@ -6253,6 +6435,19 @@
     "trust_weight": true
   },
   {
+    "name": "サルノキング",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000118750/",
+    "sire": "Tudenham",
+    "shref": "https://www.jbis.or.jp/horse/0000333537/",
+    "msire": "Solonaway",
+    "mhref": "https://www.jbis.or.jp/horse/0000333213/",
+    "year": 1979,
+    "height": 173,
+    "weight": 540,
+    "trust_weight": false
+  },
+  {
     "name": "アルクトス",
     "cnty": "JPN",
     "href": "https://www.jbis.or.jp/horse/0001207641/",
@@ -6264,5 +6459,31 @@
     "height": 173,
     "weight": 541,
     "trust_weight": true
+  },
+  {
+    "name": "ホリスキー",
+    "cnty": "JPN",
+    "href": "https://www.jbis.or.jp/horse/0000115064/",
+    "sire": "マルゼンスキー",
+    "shref": "https://www.jbis.or.jp/horse/0000069360/",
+    "msire": "Only for Life",
+    "mhref": "https://www.jbis.or.jp/horse/0000333287/",
+    "year": 1979,
+    "height": 174,
+    "weight": 516,
+    "trust_weight": false
+  },
+  {
+    "name": "Iffwedance",
+    "cnty": "JPN",
+    "href": "https://www.pedigreequery.com/iffwedance",
+    "sire": "Iffraaj",
+    "shref": "https://www.jbis.or.jp/horse/0000853280/",
+    "msire": "Soviet Star",
+    "mhref": "https://www.jbis.or.jp/horse/0000337101/",
+    "year": 2010,
+    "height": 175,
+    "weight": 620,
+    "trust_weight": false
   }
 ]
