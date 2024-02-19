@@ -1,0 +1,88 @@
+::-webkit-scrollbar {
+  width: 20
+}
+::-webkit-scrollbar-thumb {
+  background-color: #555
+}
+[a] {
+  padding-top: 0;
+  border-top: 1px solid #999;
+}
+[b] {
+  background-color: #531;
+}
+[c] {
+  background-color: #340;
+}
+[d] {
+  background-color: #145;
+}
+#s {
+  background-color: #000;
+  position: sticky;
+  top: 0;
+  height: 36;
+  line-height: 36px;
+  max-width: 100vw
+}
+#i {
+  color: #cb0;
+  display: contents
+}
+a {
+  width: 200;
+  padding: 2 4 0 8;
+  background-color: #222;
+  font: 10px/2px tahoma,sans-serif;
+  color: #888;
+  text-decoration: unset
+}
+a:first-line {
+  font: 12px hiragino kaku gothic pro,meiryo,sans-serif;
+  color: #aaa
+}
+b {
+  display: flex;
+  justify-content: right;
+  align-items: baseline;
+  font: 11px menlo,consolas,monospace;
+  color: #999;
+  text-align-last: right
+}
+s {
+  width: 28;
+  font-size: 12;
+  color: #b93;
+  text-decoration: unset
+}
+u {
+  width: 26;
+  font-size: 12;
+  color: #bbb;
+  text-decoration: unset
+}
+i {
+  width: 28;
+  font-size: 12
+}
+p {
+  display: flex;
+  gap: 1px;
+  margin: 0;
+  padding-top: 1;
+  height: 40;
+  box-sizing: border-box;
+  cursor: default
+}
+input {
+  all: unset;
+  flex-grow: 1;
+}
+body {
+  margin: 0 max(0px, calc(50% - 312px)) 32;
+  background-color: #111;
+  overflow: clip scroll;
+  color: #ccc;
+  font: 12px menlo,consolas,monospace;
+  white-space: pre
+}
